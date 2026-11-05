@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PMDM-P07-ArtSpace</string>
+    <string name="anterior">Anterior</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="titulo1">Android</string>
+    <string name="titulo2">Imagen 2D</string>
+    <string name="titulo3">Imagen 3D</string>
+    <string name="titulo4">Imagen bicho</string>
+    <string name="texto1">Artista creador de la imagen 1</string>
+    <string name="texto2">Artista creador de la imagen 2</string>
+    <string name="texto3">Artista creador de la imagen 3</string>
+    <string name="texto4">Artista creador de la imagen 4</string>
+</resources>
